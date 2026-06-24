@@ -160,6 +160,10 @@ display:grid;
 grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
 gap:2rem;
 }
+.eventlink{
+    text-decoration: none;
+    color: white;
+}
 
 .event-card{
 background:#111827;
